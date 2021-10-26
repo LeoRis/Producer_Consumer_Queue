@@ -1,0 +1,7 @@
+C:\Users\Leonid.Ristanovski\source\repos\Producer_Consumer_Queue\Producer_Consumer_Queue\bin\Debug\Producer_Consumer_Queue.exe.config
+C:\Users\Leonid.Ristanovski\source\repos\Producer_Consumer_Queue\Producer_Consumer_Queue\bin\Debug\Producer_Consumer_Queue.exe
+C:\Users\Leonid.Ristanovski\source\repos\Producer_Consumer_Queue\Producer_Consumer_Queue\bin\Debug\Producer_Consumer_Queue.pdb
+C:\Users\Leonid.Ristanovski\source\repos\Producer_Consumer_Queue\Producer_Consumer_Queue\obj\Debug\Producer_Consumer_Queue.csproj.AssemblyReference.cache
+C:\Users\Leonid.Ristanovski\source\repos\Producer_Consumer_Queue\Producer_Consumer_Queue\obj\Debug\Producer_Consumer_Queue.csproj.CoreCompileInputs.cache
+C:\Users\Leonid.Ristanovski\source\repos\Producer_Consumer_Queue\Producer_Consumer_Queue\obj\Debug\Producer_Consumer_Queue.exe
+C:\Users\Leonid.Ristanovski\source\repos\Producer_Consumer_Queue\Producer_Consumer_Queue\obj\Debug\Producer_Consumer_Queue.pdb
